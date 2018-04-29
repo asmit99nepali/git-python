@@ -1,6 +1,6 @@
 __author__ = 'Asmit'
-num1 = input("promt:Enter your first number\n")
-num2 = input("promt:Enter your Second number\n")
+num1 = input("Enter your first number\n")
+num2 = input("Enter your Second number\n")
 print("Operation\t\t\t\tKeys")
 print("*****************************")
 print("Add\t\t\t\t\t\tA")
