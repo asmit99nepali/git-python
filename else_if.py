@@ -8,3 +8,9 @@ elif(a=='nepali'):
     print("Your name is nepali no "+a)
 else:
     print("Your name not found")
+
+    print("Your name is "+a)
+elif(a=='nepali'):
+    print("Your name is nepali no "+a)
+else:
+    print("Your name not found")
